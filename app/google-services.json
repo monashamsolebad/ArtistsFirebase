@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "982471552322",
+    "firebase_url": "https://artistsfirebase-bcaf1.firebaseio.com",
+    "project_id": "artistsfirebase-bcaf1",
+    "storage_bucket": "artistsfirebase-bcaf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982471552322:android:69bbf0ca1f6ffd9d",
+        "android_client_info": {
+          "package_name": "com.mona.shamsolebad.artistsfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982471552322-80j1dr8b620adqecpffs37uastd0d2p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mona.shamsolebad.artistsfirebase",
+            "certificate_hash": "a9b9be5e9a371d7c6bda01c6a4412a5e36645dc1"
+          }
+        },
+        {
+          "client_id": "982471552322-5ff807bdsv831sal5d471gd4olghvigc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbRhM9ZLhrDtKFeunE_RzwVXCeo_nIcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982471552322-5ff807bdsv831sal5d471gd4olghvigc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

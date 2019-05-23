@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/updateTrackTitleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Track Title"/>
+    <SeekBar
+        android:id="@+id/updateRatingSeekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:min="0"
+        android:max="5"/>
+
+    <Button
+        android:id="@+id/updateTrackButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Track"/>
+
+    <Button
+        android:id="@+id/deleteTrackButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delete Track"/>
+
+</LinearLayout>
